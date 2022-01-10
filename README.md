@@ -1,2 +1,2 @@
 # vagrant
-Vagrant Tools
+Vagrant Env to setup a two node lab.
